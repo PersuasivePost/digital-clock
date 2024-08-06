@@ -13,3 +13,7 @@ Technologies Used:
 1. HTML: Structures the clock's display elements.
 2. CSS: Styles the clock for an elegant look and ensures responsiveness.
 3. JavaScript: Handles the real-time updating of the clock.
+
+#future addition:
+1. alram
+2. stopwatch
